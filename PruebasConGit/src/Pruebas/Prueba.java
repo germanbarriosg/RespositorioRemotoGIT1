@@ -6,6 +6,8 @@ public class Prueba {
 		System.out.println("Pruebas con gitHub");
 		
 		System.out.println("Segundo mensaje");
+		
+		System.out.println("Otro mensaje");
 	}
 	
 }
